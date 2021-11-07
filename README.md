@@ -1,2 +1,2 @@
-# Kaggle_Fraud
+# Fraud detection (compet)
 fraudulent transactions detection
