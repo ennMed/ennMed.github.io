@@ -20,6 +20,5 @@ Indeed 96% of the transactions in the dataset are not fraudulent. If we train a 
 Then we were interested in the missing values. We noticed that our data had a lot of missing values. As Figure 2 shows, some variables have more than 99% of missing values.
 
 
-$f(x) = sum$
 
 
